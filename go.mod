@@ -1,4 +1,4 @@
-module github.com/ilhamfp/json-iterator
+module github.com/ilhamfp/go
 
 go 1.12
 
